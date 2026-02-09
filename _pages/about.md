@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yan Feng (冯岩)"
+title: "Bio"
 author_profile: true
 redirect_from:
   - /about/
