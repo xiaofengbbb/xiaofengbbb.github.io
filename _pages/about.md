@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I’m **Yan Feng (冯岩)**, a **PhD candidate (Year 2)** at **Chang’an University**, affiliated with the **Data Science & Artificial Intelligence School**.
 
-My research focuses on **AI security for recommender systems**, with an emphasis on **poisoning attack detection**, **anomaly forensics**, and **reliability and stability-aware security mechanisms**. Recently, I am also extending these security studies to **traffic route recommendation systems**, aiming to build **controllable, stability-aware, and explainable** defenses in closed-loop transportation scenarios.
+My research focuses on **AI security for recommender systems**, with an emphasis on **poisoning attack detection**, **anomaly forensics**, and **reliability and stability-aware security mechanisms**. Recently, I am also extended these security studies to **traffic route recommendation systems**, aiming to build **controllable, stability-aware, and explainable** defenses in closed-loop transportation scenarios.
 
 ## Research Interests
 - **Recommender System Security**:
@@ -25,8 +25,4 @@ My research focuses on **AI security for recommender systems**, with an emphasis
 
 ## Visiting Plan (CSC)
 I am preparing a **CSC Visiting PhD** application (12 months). My goal is to conduct collaborative research on **security and robustness of recommender systems**, and to advance **traffic route recommendation security** with stability-aware and explainable detection.
-
-## Contact
-- Email: *yanfeng@chd.edu.cn*  
-- GitHub: *https://xiaofengbbb.github.io/yanfeng.github.io/*  
 
