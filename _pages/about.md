@@ -20,7 +20,7 @@ My research focuses on **AI security for recommender systems**, with an emphasis
 ## Publications (Selected)
 - **IEEE TKDE (Survey)**: *Attacks and Detections in Recommender Systems: A Comprehensive Analysis for Models, Progresses, and Trends*  
 - **IEEE TDSC**: *Meet Trick With Trick: Revealing Collusion Intentions in Highly Concealed Poisoning Behavior*
-- - **PAKDD 2026**: *Are There Any Hidden Agents in Your Recommendations? Anomaly Detection via Structure Purification and Stability Verification*  
+- **PAKDD 2026**: *Are There Any Hidden Agents in Your Recommendations? Anomaly Detection via Structure Purification and Stability Verification*  
 
 
 
