@@ -20,11 +20,11 @@ My research focuses on **AI security for recommender systems**, with an emphasis
 ## Publications (Selected)
 - **IEEE TKDE (CCF-A, SCI-Q1, Survey)**: *Attacks and Detections in Recommender Systems: A Comprehensive Analysis for Models, Progresses, and Trends*  
 - **IEEE TDSC (CCF-A, SCI-Q1)**: *Meet Trick With Trick: Revealing Collusion Intentions in Highly Concealed Poisoning Behavior*
-- **PAKDD 2026 (CCF-C)**: *Are There Any Hidden Agents in Your Recommendations? Anomaly Detection via Structure Purification and Stability Verification*  
+- **PAKDD 2026 (CCF-C, Oral)**: *Are There Any Hidden Agents in Your Recommendations? Anomaly Detection via Structure Purification and Stability Verification*  
 
 
 ## Visiting Plan (CSC)
-I am preparing a **CSC Visiting Ph.D.** application (12 months). My goal is to conduct collaborative research on **security and robustness of recommender systems**, and to advance **traffic route recommendation security** with stability-aware and explainable detection.
+I am preparing a **CSC Visiting Ph.D.** application for a 12-month research visit at the University of Queensland (UQ). My goal is to conduct collaborative research on **security and robustness of recommender systems**, and to advance **traffic route recommendation security** with stability-aware and explainable detection.
 
 ## Emotional Supporter 🐶
 
