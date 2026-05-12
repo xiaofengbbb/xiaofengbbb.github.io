@@ -37,17 +37,17 @@ He keeps me motivated and reminds me to stay positive during research.
 <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
   <img src="/images/微信图片_20260509182208_49352_2.jpg" 
        alt="Biaobiao (彪彪), my corgi" 
-       style="width:170px; border-radius:12px;" />
+       style="height:226px; border-radius:12px;" />
   <img src="/images/6b031a7c040c99ff1133481061cfa72b.jpg" 
        alt="Biaobiao (彪彪), my corgi" 
-       style="width:170px; border-radius:12px;" />
+       style="height:226px; border-radius:12px;" />
   <img src="/images/微信图片_20260509182209_49353_2.jpg" 
        alt="Biaobiao (彪彪), my corgi" 
-       style="width:170px; border-radius:12px;" />
+       style="height:226px; border-radius:12px;" />
   
   <img src="/images/微信图片_20260509182153_49343_2.jpg" 
        alt="Biaobiao (彪彪), my corgi" 
-       style="width:170px; border-radius:12px;" />
+       style="height:226px; border-radius:12px;" />
 
   
 </div>
